@@ -13,4 +13,4 @@ Este é um simples conversor de moeda que converte o valor inserido em Wons para
 1. Faça o download ou clone o repositório em seu computador.
    
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/carloseduu66/ConversorWons
